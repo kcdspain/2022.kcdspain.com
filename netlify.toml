@@ -1,0 +1,18 @@
+[build]
+publish = "public"
+command = "make production-build"
+
+[build.environment]
+HUGO_VERSION = "0.101.0"
+NODE_VERSION = "18.9.0"
+
+[context.production.environment]
+HUGO_BASEURL = "https://kcdspain.com/"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.deploy-preview]
+command = "make preview-build"
+
+[context.branch-deploy]
+command = "make preview-build"
