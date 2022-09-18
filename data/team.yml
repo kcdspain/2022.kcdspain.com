@@ -221,32 +221,44 @@
     - link: https://community.cncf.io/u/mydee8/
       name: CNCF
 
-- title: Pascuale Toscano
-  company: 
+- title: Pasquale Toscano
+  company: AstroKube
+  subtitle: CoFounder
   type: event_coordination
-  subtitle: 
-  key: pascuale_toscano
+  key: pasquale_toscano
   socials:
-    - link: https://github.com/pascualet
+    - link: https://www.linkedin.com/in/nquiceno/
+      name: LinkedIn
+    - link: https://github.com/pasqualet
       name: Github
+    - link: https://community.cncf.io/u/m2rggj
+      name: CNCF
 
-- title: Pascuale Toscano
-  company: 
+- title: Pasquale Toscano
+  company: AstroKube
   type: content
-  subtitle: 
-  key: pascuale_toscano
+  subtitle: CoFounder
+  key: pasquale_toscano
   socials:
-    - link: https://github.com/pascualet
+    - link: https://www.linkedin.com/in/nquiceno/
+      name: LinkedIn
+    - link: https://github.com/pasqualet
       name: Github
+    - link: https://community.cncf.io/u/m2rggj
+      name: CNCF
 
-- title: Pascuale Toscano
-  company: 
-  subtitle: 
+- title: Pasquale Toscano
+  company: AstroKube
+  subtitle: CoFounder
   type: marketing
-  key: pascuale_toscano
+  key: pasquale_toscano
   socials:
-    - link: https://github.com/pascualet
+    - link: https://www.linkedin.com/in/nquiceno/
+      name: LinkedIn
+    - link: https://github.com/pasqualet
       name: Github
+    - link: https://community.cncf.io/u/m2rggj
+      name: CNCF
 
 - title: Rael Garcia Arnés
   company: Red Hat
