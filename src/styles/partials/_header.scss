@@ -15,8 +15,8 @@ body > header {
   }
 
   box-shadow: 0 var(--space-1) var(--space-1) rgba(0, 0, 0, .5);
-  background: var(--bg-pink);
-  color: var(--primary-txt);
+  background: lightgray;
+  color: var(--fg-dark-blue);
 
   .logo {
     padding: var(--space-2) 0;
