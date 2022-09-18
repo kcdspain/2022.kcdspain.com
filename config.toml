@@ -1,3 +1,78 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://kcdspain.com/"
+languageCode = "en-gb"
+title = "Kubernetes Community Days Spain 2022"
+
+# Theme
+theme = "devfest-theme-hugo"
+
+# Params
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+[params]
+    title = "#2 Virtual Kubernetes Community Days"
+    date = "2022-11-22 - 2021-11-24"
+    description = "Forma parte de la primera comunidad de hispanohablantes de Kubernetes. Descubre un evento de tres días en español lleno de experiencias, empresas emergentes y personas a las que les gusta tanto la tecnología como a ti."
+    images = ["/images/social-share.jpg"]
+    email = " hello@kcdspain.com"
+    keywords = "event, kcd, spain, kubernetes, google, cloud"
+    copyright = "Organized with ❤️  by KCD Spain."
+    cfpUrl = "https://kcd.smapply.io/prog/kcd_spain_2022_cfp/"
+    joinURL = "https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2022/"
+    appleTouchIcon = "/apple-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#0000ff"
+
+[params.logos]
+    jumbo = "/images/logos/KCD-logo-comp.png"
+    header = "/images/logos/KCD-logo-comp.png"
+    footer = "/images/logos/KCD-logo-comp.png"
+
+[menu]
+[[menu.main]]
+    identifier = "cfp"
+    name = "CFP"
+    url = "https://kcd.smapply.io/prog/kcd_spain_2022_cfp/"
+    weight = 190
+    external = true
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+    languageCode = "en"
+
+[languages.es]
+    weight = 2
+    languageName = "es"
+    languageCode = "es"
+
+[languages.es.params]
+    description = "Forma parte de la primera comunidad de hispanohablantes de Kubernetes. Descubre un evento de tres días en español lleno de experiencias, empresas emergentes y personas a las que les gusta tanto" 
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
+
