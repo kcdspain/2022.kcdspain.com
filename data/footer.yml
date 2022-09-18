@@ -1,0 +1,30 @@
+share:
+  - name: twitter
+    URL: https://kcdspain.com
+
+follow:
+  - name: twitter
+    url: https://twitter.com/kcdspain
+  - name: linkedin
+    url: https://www.linkedin.com/company/kcdspain/
+  - name: youtube
+    url: https://www.youtube.com/channel/UC2666lycS6cx5a8KL_hBhKA
+
+content:
+  - title: footer_about
+    links:
+      - name: KCD Spain
+        url: https://kcdspain.com/
+        newTab: true
+      - name: Cloud Native Computing Foundation
+        url: https://cncf.io/
+        newTab: true
+      - nameKey: footer_coc
+        url: https://www.cncf.io/conduct/
+        newTab: true
+
+  - title: footer_previous_edition
+    links:
+      - name: KCD Spain 2021
+        url: https://2021.kcdspain.com/
+        newTab: true
