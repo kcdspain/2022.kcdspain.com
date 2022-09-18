@@ -15,13 +15,13 @@ body > header {
   }
 
   box-shadow: 0 var(--space-1) var(--space-1) rgba(0, 0, 0, .5);
-  background: lightgray;
+  background: rgba(242,243,247,250);
   color: var(--fg-dark-blue);
 
   .logo {
-    padding: var(--space-2) 0;
+    padding: var(--space-4) 0;
     img {
-      height: calc(var(--toolbar-height) - (2 * var(--space-2)));
+      height: calc(var(--toolbar-height) - (2 * var(--space-4)));
       filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, .5));
     }
   }
@@ -81,29 +81,27 @@ body > header {
       transition: all var(--animation);
       border-bottom: thin solid transparent;
       border-radius: 5%;
-      margin-right: var(--space-2);
+      margin-right: var(--space-4);
       display: flex;
       align-items: center;
 
-      --angle: 10deg;
-      transform: skewX(calc(-1 * var(--angle)));
-
       a {
-        transform: skewX(var(--angle));
+        &:focus, &:hover {
+            color: var(--toc-text);
+            font-weight: 600;
+        }
       }
 
       &.active {
         opacity: 1;
 
         a {
-          border-bottom: thin solid currentColor;
+            color: var(--toc-text);
+            font-weight: 600;
+            border-bottom: thin solid currentColor;
         }
       }
 
-      &.external {
-        opacity: 1;
-        background: rgba(0, 0, 0, .25);
-      }
     }
 
     a {
@@ -113,7 +111,7 @@ body > header {
       text-decoration: none;
       line-height: calc(var(--toolbar-height) - (4 * var(--space-2)));;
       color: inherit;
-      font-weight: 200;
+      font-weight: 600;
 
       svg {
         max-width: 3ch;
