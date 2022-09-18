@@ -1,0 +1,78 @@
+##########
+# Header #
+##########
+
+[language_switch]
+other = "Switch to"
+
+########
+# Home #
+########
+
+[home_tickets_action]
+other = "Comprar Entrada"
+
+[home_tickets_soldout]
+other = "Entradas agotadas"
+
+[home_tickets_close]
+other = "Entradas no disponibles"
+
+[home_location_direction]
+other = "Dirección"
+
+##########
+# Footer #
+##########
+
+[footer_share]
+other = "Compartir"
+
+[facebook_share_label]
+other = "Compartir en Facebook"
+
+[twitter_share_text]
+other = "Únete con nosotros en el #KCDSpain, un evento virtual de la @CloudNativeFdn, en Español!"
+
+[twitter_share_label]
+other = "Compartir en Twitter"
+
+[footer_follow_blog]
+other = "Sigue nuestro"
+
+[footer_follow_blog_blog]
+other = "blog"
+
+[footer_follow_us]
+other = "Síguenos"
+
+[footer_about]
+other = "Acerca de"
+
+[footer_previous_edition]
+other = "Edición pasada"
+
+[footer_become_partners]
+other = "Conviertete en patrocinador"
+
+[footer_become_partners_label]
+other = "Partnership Proposition"
+
+[footer_coc]
+other = "Código de Conducta"
+
+
+################
+# Subscription #
+################
+[newsletter]
+other = "Newsletter"
+
+[subscribe_notice]
+other = "No spam, only the latest news and updates!"
+
+[subscribe_action]
+other = "Subscribe"
+
+[join_action]
+other = "Unirme"

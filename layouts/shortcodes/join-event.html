@@ -1,0 +1,14 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<section class="join {{ .Get "class" }}">
+
+	<div class="inner">
+          {{ .Inner }}
+        </div>
+
+	<a href="{{ .Site.Params.joinUrl }}"
+	   class="btn btn-xlg tertiary" rel="noopener noreferrer" target="_blank">
+		<!-- {{ partial "icon.html" "subscribe" }} -->
+		{{ i18n "join_action" }}
+	</a>
+
+</section>

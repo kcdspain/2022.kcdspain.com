@@ -1,0 +1,11 @@
+---
+key: tomas_todonte
+name: Tomás Todonte
+feature: true
+city: 'Villacascote de la Charca, Spain'
+photoURL: /images/speakers/tomas_todonte.jpg
+socials:
+  - icon: twitter
+    link: 'https://twitter.com/tomastodonte'
+---
+

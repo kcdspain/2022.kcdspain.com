@@ -1,0 +1,377 @@
+- title: Alba Tudela
+  company: Tesera
+  subtitle: CMO
+  key: alba_tudela
+  socials:
+    - link: https://twitter.com/al_tudela
+      name: Twitter
+    - link: https://www.linkedin.com/in/alba-tudela-ballester/
+      name: LinkedIn
+    - link: https://github.com/aagea
+      name: Github
+    - link: https://community.cncf.io/u/m8bvqe/
+      name: CNCF
+
+- title: Alexandre Gonzalez
+  company: auth0
+  subtitle: Software Engineer
+  type: event_coordination
+  key: alexandre_gonzalez
+  socials:
+    - link: https://twitter.com/agonzalezro
+      name: Twitter
+    - link: https://www.linkedin.com/in/alexandregonzalezrodriguez/
+      name: LinkedIn
+    - link: https://community.cncf.io/u/mzcv25/
+      name: CNCF
+
+- title: Alexandre Gonzalez
+  company: auth0
+  subtitle: Software Engineer
+  type: content
+  key: alexandre_gonzalez
+  socials:
+    - link: https://twitter.com/agonzalezro
+      name: Twitter
+    - link: https://www.linkedin.com/in/alexandregonzalezrodriguez/
+      name: LinkedIn
+    - link: https://community.cncf.io/u/mzcv25/
+      name: CNCF
+
+- title: Alvaro Agea
+  company: Napptive
+  subtitle: CEO
+  type: event_coordination
+  key: alvaro_agea
+  socials:
+    - link: https://twitter.com/alvaroagea
+      name: Twitter
+    - link: https://www.linkedin.com/in/alvaroagea/
+      name: LinkedIn
+    - link: https://github.com/aagea
+      name: Github
+    - link: https://community.cncf.io/u/mp5tsn/
+      name: CNCF
+
+- title: Alvaro Agea
+  company: Napptive
+  subtitle: CEO
+  type: content
+  key: alvaro_agea
+  socials:
+    - link: https://twitter.com/alvaroagea
+      name: Twitter
+    - link: https://www.linkedin.com/in/alvaroagea/
+      name: LinkedIn
+    - link: https://github.com/aagea
+      name: Github
+    - link: https://community.cncf.io/u/mp5tsn/
+      name: CNCF
+
+- title: Borja Reinares
+  company: 
+  subtitle: 
+  type: event_coordination
+  key: borja_reinares
+  socials:
+    - link: https://github.com/borjareinares
+      name: Github
+
+- title: Borja Reinares
+  company: 
+  subtitle: 
+  type: content
+  key: borja_reinares
+  socials:
+    - link: https://github.com/borjareinares
+      name: Github
+
+- title: Javier Provecho Fernandez
+  company: Okteto
+  subtitle: Software Engineer
+  type: event_coordination
+  key: javier_provecho_fernandez
+  socials:
+    - link: https://github.com/javierprovecho
+      name: Github
+    - link: https://community.cncf.io/u/mcn7xj/
+      name: CNCF
+
+- title: Javier Provecho Fernandez
+  company: Okteto
+  subtitle: Software Engineer
+  type: content
+  key: javier_provecho_fernandez
+  socials:
+    - link: https://github.com/javierprovecho
+      name: Github
+    - link: https://community.cncf.io/u/mcn7xj/
+      name: CNCF
+
+- title: Javier Provecho Fernandez
+  company: Okteto
+  subtitle: Software Engineer
+  type: multimedia
+  key: javier_provecho_fernandez
+  socials:
+    - link: https://twitter.com/...
+      name: Twitter
+    - link: https://www.linkedin.com/in/.../
+      name: LinkedIn
+    - link: https://github.com/javierprovecho
+      name: Github
+    - link: https://community.cncf.io/u/mcn7xj/
+      name: CNCF
+
+- title: Jorge Penaranda
+  company: ISRG - Sprinter
+  subtitle: DevOps Team Leader
+  key: jorge_penaranda
+  socials:
+    - link: https://twitter.com/jorgermp
+      name: Twitter
+    - link: https://www.linkedin.com/in/jorgermp/
+      name: LinkedIn
+    - link: https://github.com/...
+      name: Github
+    - link: https://community.cncf.io/u/mph9mx/
+      name: CNCF
+
+- title: Jorge Turrado Ferrero
+  company: 
+  subtitle: SRE
+  type: event_coordination
+  key: jorge_turrado_ferrero
+  socials:
+    - link: https://twitter.com/JorgeTurrado
+      name: Twitter
+    - link: https://www.linkedin.com/in/jorge-turrado-ferrero-64b70371/
+      name: LinkedIn
+    - link: https://github.com/JorTurFer
+      name: Github
+    - link: https://community.cncf.io/u/m8553h/
+      name: CNCF
+
+- title: Mario Ezquerro Sáenz
+  company: Bosonit
+  subtitle: Senior Software Engineer
+  type: event_coordination
+  key: mario_ezquerro_saenz
+  socials:
+    - link: https://twitter.com/Mario_Ezquerro
+      name: Twitter
+    - link: https://www.linkedin.com/in/mario-ezquerro-s%C3%A1enz-a239b270/
+      name: LinkedIn
+    - link: https://github.com/mario-ezquerro
+      name: Github
+    - link: https://community.cncf.io/u/mryfu6/
+      name: CNCF
+
+- title: Mario Ezquerro Sáenz
+  company: Bosonit
+  subtitle: Senior Software Engineer
+  type: multimedia
+  key: mario_ezquerro_saenz
+  socials:
+    - link: https://twitter.com/Mario_Ezquerro
+      name: Twitter
+    - link: https://www.linkedin.com/in/mario-ezquerro-s%C3%A1enz-a239b270/
+      name: LinkedIn
+    - link: https://github.com/mario-ezquerro
+      name: Github
+    - link: https://community.cncf.io/u/mryfu6/
+      name: CNCF
+
+- title: Mario Vázquez
+  company: Red Hat
+  subtitle:
+  type: content
+  key: mario_vazquez
+  socials:
+    - link: https://github.com/mvazquezc
+      name: Github
+
+- title: Nicolas Quiceno Benavides
+  company: AstroKube
+  subtitle: CoFounder
+  type: marketing
+  key: nicolas_quiceno_benavides
+  socials:
+    - link: https://twitter.com/...
+      name: Twitter
+    - link: https://www.linkedin.com/in/nquiceno/
+      name: LinkedIn
+    - link: https://github.com/92nqb
+      name: Github
+    - link: https://community.cncf.io/u/mydee8/
+      name: CNCF
+
+- title: Nicolas Quiceno Benavides
+  company: AstroKube
+  subtitle: CoFounder
+  type: content
+  key: nicolas_quiceno_benavides
+  socials:
+    - link: https://twitter.com/...
+      name: Twitter
+    - link: https://www.linkedin.com/in/nquiceno/
+      name: LinkedIn
+    - link: https://github.com/92nqb
+      name: Github
+    - link: https://community.cncf.io/u/mydee8/
+      name: CNCF
+
+- title: Pascuale Toscano
+  company: 
+  type: event_coordination
+  subtitle: 
+  key: pascuale_toscano
+  socials:
+    - link: https://github.com/pascualet
+      name: Github
+
+- title: Pascuale Toscano
+  company: 
+  type: content
+  subtitle: 
+  key: pascuale_toscano
+  socials:
+    - link: https://github.com/pascualet
+      name: Github
+
+- title: Pascuale Toscano
+  company: 
+  subtitle: 
+  type: marketing
+  key: pascuale_toscano
+  socials:
+    - link: https://github.com/pascualet
+      name: Github
+
+- title: Rael Garcia Arnés
+  company: Red Hat
+  type: event_coordination
+  subtitle: Senior Software Engineer
+  key: rael_garcia_arnes
+  socials:
+    - link: https://twitter.com/raelga
+      name: Twitter
+    - link: https://www.linkedin.com/in/rael/
+      name: LinkedIn
+    - link: https://github.com/raelga
+      name: Github
+    - link: https://community.cncf.io/u/m5mhc6/
+      name: CNCF
+
+- title: Rael Garcia Arnés
+  company: Red Hat
+  type: content
+  subtitle: Senior Software Engineer
+  key: rael_garcia_arnes
+  socials:
+    - link: https://twitter.com/raelga
+      name: Twitter
+    - link: https://www.linkedin.com/in/rael/
+      name: LinkedIn
+    - link: https://github.com/raelga
+      name: Github
+    - link: https://community.cncf.io/u/m5mhc6/
+      name: CNCF
+
+- title: Rael Garcia Arnés
+  company: Red Hat
+  subtitle: Senior Software Engineer
+  type: marketing
+  key: rael_garcia_arnes
+  socials:
+    - link: https://twitter.com/raelga
+      name: Twitter
+    - link: https://www.linkedin.com/in/rael/
+      name: LinkedIn
+    - link: https://github.com/raelga
+      name: Github
+    - link: https://community.cncf.io/u/m5mhc6/
+      name: CNCF
+
+- title: Rael Garcia Arnés
+  company: Red Hat
+  subtitle: Senior Software Engineer
+  type: multimedia
+  key: rael_garcia_arnes
+  socials:
+    - link: https://twitter.com/raelga
+      name: Twitter
+    - link: https://www.linkedin.com/in/rael/
+      name: LinkedIn
+    - link: https://github.com/raelga
+      name: Github
+    - link: https://community.cncf.io/u/m5mhc6/
+      name: CNCF
+
+- title: Rosa Maria Carpio Lopez
+  company: HBO Max
+  subtitle: Sr. DevSecOps
+  type: marketing
+  key: rosa_maria_carpio_lopez
+  socials:
+    - link: https://twitter.com/roxcarpio1
+      name: Twitter
+    - link: https://www.linkedin.com/in/.../
+      name: LinkedIn
+    - link: https://github.com/rcarpio-hbo
+      name: Github
+    - link: https://community.cncf.io/u/mcydnh/
+      name: CNCF
+
+- title: Steve Galache
+  company: Napptive
+  subtitle: VP of Revenue
+  key: steve_galache
+  socials:
+    - link: https://www.linkedin.com/in//steve-galache-50232253
+      name: LinkedIn
+    - link: https://community.cncf.io/u/mg4785/
+      name: CNCF
+
+- title: Vicente J. Jiménez Miras
+  company: Sysdig
+  type: marketing
+  subtitle: Security Content Enginer
+  key: vicente_javier_jimenez_miras
+  socials:
+    - link: https://twitter.com/vjjmiras
+      name: Twitter
+    - link: https://www.linkedin.com/in/vjjmiras/
+      name: LinkedIn
+    - link: https://github.com/vjjmiras
+      name: Github
+    - link: https://community.cncf.io/u/my68j5/
+      name: CNCF
+
+- title: Victor David Martínez Bahillo
+  company: Auctane
+  subtitle: Tech Lead Infrastructure
+  type: content
+  key: victor_david_martinez_bahillo
+  socials:
+    - link: https://twitter.com/vthot4
+      name: Twitter
+    - link: https://www.linkedin.com/in/victor-martinez-bahillo/
+      name: LinkedIn
+    - link: https://github.com/vthot4
+      name: Github
+    - link: https://community.cncf.io/u/m859nx/
+      name: CNCF
+
+- title: Xoan Mallón
+  company:
+  subtitle:
+  type: content
+  key: xoan_mallon
+  socials:
+    - link: https://github.com/xoanmm
+      name: Github
+
+  socials:
+    - link: https://github.com/xoanmm
+      name: GitHub
