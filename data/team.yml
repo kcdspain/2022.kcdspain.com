@@ -184,12 +184,18 @@
 
 - title: Mario Vázquez
   company: Red Hat
-  subtitle:
+  subtitle: Solutions Engineer
   type: content
   key: mario_vazquez
   socials:
+    - link: https://twitter.com/mvazce
+      name: Twitter
+    - link: https://www.linkedin.com/in/mariovazquezcebrian/
+      name: LinkedIn
     - link: https://github.com/mvazquezc
       name: Github
+    - link: https://community.cncf.io/u/m6gx6s/
+      name: CNCF
 
 - title: Nicolas Quiceno Benavides
   company: AstroKube
