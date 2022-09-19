@@ -28,7 +28,7 @@ enableMissingTranslationPlaceholders = true
     themeColor = "#0000ff"
 
 [params.logos]
-    jumbo = "/images/logos/KCD-logo-comp.png"
+    jumbo = "/images/logos/KCD-logo-white.png"
     header = "/images/logos/KCD-logo-comp.png"
     footer = "/images/logos/KCD-logo-comp.png"
 
