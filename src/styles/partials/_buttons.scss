@@ -50,11 +50,13 @@ input[type=button], input[type=reset], input[type=submit] {
   &.tertiary {
     background-color: var(--tertiary);
     color: var(--tertiary-txt);
-    text-shadow: var(--extruded-dark);
-    --focus-color: var(--lighten-1);
-    --active-color: var(--lighten-1);
-    }
+    font-weight: 700;
 
+    &:focus, &:hover, &:active {
+      background-color: var(--tertiary-hover);
+      color: var(--tertiary-hover-txt);
+    }
+  }
 
 
   // Icons
