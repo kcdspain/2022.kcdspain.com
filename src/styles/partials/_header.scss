@@ -130,7 +130,7 @@ body > header {
       a.lang {
         color: transparent;
         max-width: 2em;
-        height: 2em;
+        height: calc(var(--toolbar-height) - (4 * var(--space-2)));;
         overflow: hidden;
 
         &::before {
