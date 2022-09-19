@@ -233,7 +233,9 @@
   type: event_coordination
   key: pasquale_toscano
   socials:
-    - link: https://www.linkedin.com/in/nquiceno/
+    - link: https://twitter.com/paskube
+      name: Twitter
+    - link: https://www.linkedin.com/in/pasqualetoscano/
       name: LinkedIn
     - link: https://github.com/pasqualet
       name: Github
@@ -246,7 +248,9 @@
   subtitle: CoFounder
   key: pasquale_toscano
   socials:
-    - link: https://www.linkedin.com/in/nquiceno/
+    - link: https://twitter.com/paskube
+      name: Twitter
+    - link: https://www.linkedin.com/in/pasqualetoscano/
       name: LinkedIn
     - link: https://github.com/pasqualet
       name: Github
@@ -259,7 +263,9 @@
   type: marketing
   key: pasquale_toscano
   socials:
-    - link: https://www.linkedin.com/in/nquiceno/
+    - link: https://twitter.com/paskube
+      name: Twitter
+    - link: https://www.linkedin.com/in/pasqualetoscano/
       name: LinkedIn
     - link: https://github.com/pasqualet
       name: Github
