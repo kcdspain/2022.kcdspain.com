@@ -75,4 +75,22 @@ other = "No spam, only the latest news and updates!"
 other = "Subscribe"
 
 [join_action]
-other = "Unirme"
+other = "Unirme al evento"
+
+[join_call_to_action]
+other = "Apúntate al evento. ¡No te pierdas todo lo que está por venir!"
+
+[submit_presentation]
+other = "Enviar una presentación"
+
+[date_of_event]
+other = "22-24 Noviembre, 2022"
+
+[partners_header]
+other = "Colaboran con nosotros"
+
+[event_subtitle]
+other = "#2 Virtual KCD Spain"
+
+[what_is_kcd]
+other = "**Los Kubernetes Community Days (KCDs)** son eventos organizados por la comunidad con el objetivo de reunir usuarios y tecnólogos de las comunidades de código libre y nativas en la nube para educar, colaborar y conectar los unos con otros. Los KCDs recibe el apoyo de la [Cloud Native Computing Foundation](https://cncf.io/) (CNCF). Estos eventos, divertidos y regionalmente localizados, ayudan a crecer y dar apoyo a la comunidad de Kubernetes."
