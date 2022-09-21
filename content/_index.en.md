@@ -8,6 +8,10 @@ menu:
 
 ---
 
+{{% cfp-extension class="secondary" %}}
+
+<!-- ... -->
+
 {{% jumbo img="/images/backgrounds/back-geo.png" imgLabel="KCDSpain" submitCFP="yes" %}}
 
 <!--

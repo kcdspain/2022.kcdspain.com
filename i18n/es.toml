@@ -84,7 +84,7 @@ other = "Apúntate al evento. ¡No te pierdas todo lo que está por venir!"
 other = "Enviar una presentación"
 
 [date_of_event]
-other = "22-24 Noviembre, 2022"
+other = "15-16 de Noviembre 2022"
 
 [partners_header]
 other = "Colaboran con nosotros"
@@ -94,3 +94,6 @@ other = "#2 Virtual KCD Spain"
 
 [what_is_kcd]
 other = "**Los Kubernetes Community Days (KCDs)** son eventos organizados por la comunidad con el objetivo de reunir usuarios y tecnólogos de las comunidades de código libre y nativas en la nube para educar, colaborar y conectar los unos con otros. Los KCDs recibe el apoyo de la [Cloud Native Computing Foundation](https://cncf.io/) (CNCF). Estos eventos, divertidos y regionalmente localizados, ayudan a crecer y dar apoyo a la comunidad de Kubernetes."
+
+[cfp_extension]
+other = "Extendido el plazo del CFP hasta el 30 de September, 2022!"
