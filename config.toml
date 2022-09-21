@@ -12,9 +12,9 @@ enableMissingTranslationPlaceholders = true
 
 [params]
     title = "#2 Virtual Kubernetes Community Days"
-    date = "2022-11-22 - 2021-11-24"
+    date = "November 15-16, 2022"
     description = "Forma parte de la primera comunidad de hispanohablantes de Kubernetes. Descubre un evento de tres días en español lleno de experiencias, empresas emergentes y personas a las que les gusta tanto la tecnología como a ti."
-    images = ["/images/social-share.jpg"]
+    images = ["/images/featured/kcdspain-featured-01.png"]
     email = " hello@kcdspain.com"
     keywords = "event, kcd, spain, kubernetes, google, cloud"
     copyright = "Organized with ❤️  by KCD Spain."
