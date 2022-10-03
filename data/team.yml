@@ -388,14 +388,12 @@
       name: CNCF
 
 - title: Xoan Mallón
-  company:
-  subtitle:
+  company: DocPlanner Tech
+  subtitle: SRE
   type: content
   key: xoan_mallon
   socials:
     - link: https://github.com/xoanmm
       name: Github
-
-  socials:
-    - link: https://github.com/xoanmm
-      name: GitHub
+    - link: https://www.linkedin.com/in/xoan-mallon-moure/
+      name: LinkedIn
