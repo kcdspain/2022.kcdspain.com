@@ -32,13 +32,13 @@ enableMissingTranslationPlaceholders = true
     header = "/images/logos/KCD-logo-comp.png"
     footer = "/images/logos/KCD-logo-comp.png"
 
-[menu]
-[[menu.main]]
-    identifier = "cfp"
-    name = "CFP"
-    url = "https://kcd.smapply.io/prog/kcd_spain_2022_cfp/"
-    weight = 190
-    external = true
+# [menu]
+# [[menu.main]]
+#     identifier = "cfp"
+#     name = "CFP"
+#     url = "https://kcd.smapply.io/prog/kcd_spain_2022_cfp/"
+#     weight = 190
+#     external = true
 
 [languages]
 [languages.en]
@@ -52,7 +52,7 @@ enableMissingTranslationPlaceholders = true
     languageCode = "es"
 
 [languages.es.params]
-    description = "Forma parte de la primera comunidad de hispanohablantes de Kubernetes. Descubre un evento de tres días en español lleno de experiencias, empresas emergentes y personas a las que les gusta tanto" 
+    description = "Forma parte de la primera comunidad de hispanohablantes de Kubernetes. Descubre un evento de tres días en español lleno de experiencias, empresas emergentes y personas a las que les gusta tanto"
 
 [privacy]
   [privacy.disqus]
