@@ -8,11 +8,9 @@ menu:
 
 ---
 
-{{% cfp-extension class="secondary" %}}
-
 <!-- ... -->
 
-{{% jumbo img="/images/backgrounds/back-geo.png" imgLabel="KCDSpain" submitCFP="yes" %}}
+{{% jumbo img="/images/backgrounds/back-geo.png" imgLabel="KCDSpain" submitCFP="no" %}}
 
 <!--
 {{/* home-info what="Participantes:30,Dias:3,Charlas:36,Tracks paralelas:2" class="primary" */}}
