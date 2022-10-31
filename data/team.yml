@@ -68,24 +68,6 @@
     - link: https://community.cncf.io/u/mp5tsn/
       name: CNCF
 
-- title: Borja Reinares
-  company: 
-  subtitle: 
-  type: event_coordination
-  key: borja_reinares
-  socials:
-    - link: https://github.com/borjareinares
-      name: Github
-
-- title: Borja Reinares
-  company: 
-  subtitle: 
-  type: content
-  key: borja_reinares
-  socials:
-    - link: https://github.com/borjareinares
-      name: Github
-
 - title: Javier Provecho Fernandez
   company: Okteto
   subtitle: Software Engineer
