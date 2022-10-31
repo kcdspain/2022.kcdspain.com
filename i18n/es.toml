@@ -97,3 +97,6 @@ other = "**Los Kubernetes Community Days (KCDs)** son eventos organizados por la
 
 [cfp_extension]
 other = "Extendido el plazo del CFP hasta el 30 de September, 2022!"
+
+[menu_main_schedule]
+other = "Agenda"
