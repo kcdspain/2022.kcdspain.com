@@ -32,7 +32,13 @@ enableMissingTranslationPlaceholders = true
     header = "/images/logos/KCD-logo-comp.png"
     footer = "/images/logos/KCD-logo-comp.png"
 
-# [menu]
+[menu]
+[[menu.main]]
+    identifier = "schedule"
+    name = "menu_main_schedule"
+    url = "https://agenda.kcdspain.com/"
+    weight = 200
+    external = true
 # [[menu.main]]
 #     identifier = "cfp"
 #     name = "CFP"
