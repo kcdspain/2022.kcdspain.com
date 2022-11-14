@@ -14,8 +14,9 @@ menu:
 
 <!--
 {{/* home-info what="Participantes:30,Dias:3,Charlas:36,Tracks paralelas:2" class="primary" */}}
--->
 {{% home-info what="" %}}
+-->
+{{% home-info what="Participants:27,Days:2,Sessions:20,Parallel Tracks:2" class="primary" %}}
 
 <!--
 
@@ -36,11 +37,11 @@ menu:
 
 <!-- ... -->
 
-{{% join-event  class="primary" %}}
+{{< youtube-section link="?v=PrNSCT7PiiU&list=PL7cPkcGlrwyqqlK4RTUhxVU3m1TEW4vgg" title="Videos del KCD Spain 2021" class="" >}}
 
 <!-- ... -->
 
-{{< youtube-section link="?v=PrNSCT7PiiU&list=PL7cPkcGlrwyqqlK4RTUhxVU3m1TEW4vgg" title="Videos del KCD Spain 2021" class="" >}}
+{{% join-event  class="primary" %}}
 
 <!-- ... -->
 
