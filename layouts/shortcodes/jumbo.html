@@ -3,6 +3,7 @@
 {{ $imgLabel := .Get "imgLabel" }}
 {{ $logo := .Site.Params.logos.jumbo }}
 {{ $submitCFP := .Get "submitCFP" }}
+{{ $joinEvent := .Get "joinEvent" }}
 <div class="jumbo">
 	<div class="jumbo-cover" style="background-image: url('{{ .Get "img" }}')" {{ if $imgLabel }}aria-label="{{ $imgLabel }}"{{ end }}></div>
 <!--
@@ -20,11 +21,13 @@
 			<a class="btn btn-xlg tertiary" href="https://kcd.smapply.io/prog/kcd_spain_2022_cfp/">
 			    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>{{ i18n "submit_presentation" }}
 			{{ end }}
+			{{ if eq $joinEvent "yes" }}
 			</a>
 			<a href="{{ .Site.Params.joinUrl }}"
 			   class="btn btn-xlg tertiary" rel="noopener noreferrer" target="_blank">
 				{{ i18n "join_action" }}
 			</a>
+			{{ end }}
 		</div>
 	</div>
 
