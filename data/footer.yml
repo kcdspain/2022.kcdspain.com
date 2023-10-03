@@ -25,6 +25,9 @@ content:
 
   - title: footer_previous_edition
     links:
+      - name: KCD Spain 2022
+        url: https://2022.kcdspain.com/
+        newTab: true
       - name: KCD Spain 2021
         url: https://2021.kcdspain.com/
         newTab: true
