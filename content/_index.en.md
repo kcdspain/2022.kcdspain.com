@@ -35,7 +35,13 @@ menu:
 
 <!-- ... -->
 
-{{% home-info what="Participants:27,Days:2,Sessions:20,Parallel Tracks:2" class="primary" %}}
+<!--
+
+{{% home-info what="Participants: 10, Days: 1, Sessions: 10, Parallel Tracks: 2" class="primary" %}}
+
+-->
+
+{{% home-info what="Sessions: 10, Parallel Tracks: 2" class="primary" %}}
 
 <!--
 

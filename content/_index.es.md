@@ -18,7 +18,7 @@ menu:
 ## Featured Speakers
 
 {{< button-link label="Submit a presentation"
-                url="https://cfp.kcdspain.com/"
+                url="https://cfp.kcdspain.com"
                 icon="cfp" >}}
 
 {{< button-link label="See all speakers"
@@ -31,11 +31,17 @@ menu:
 
 <!-- ... -->
 
-{{< youtube-section link="?list=PL7cPkcGlrwyrSXw9JJTlyVmbEcw5smCmP" title="Watch KCD Spain 2023" class="" >}}
+{{< youtube-section link="?list=PL7cPkcGlrwyrSXw9JJTlyVmbEcw5smCmP" title="Watch KCD Spain 2022" class="" >}}
 
 <!-- ... -->
 
-{{% home-info what="Participants:27,Days:2,Sessions:20,Parallel Tracks:2" class="primary" %}}
+<!--
+
+{{% home-info what="Participants: 10, Days: 1, Sessions: 10, Parallel Tracks: 2" class="primary" %}}
+
+-->
+
+{{% home-info what="Sessions: 10, Parallel Tracks: 2" class="primary" %}}
 
 <!--
 
