@@ -12,7 +12,7 @@ enableMissingTranslationPlaceholders = true
 
 [params]
     title = "#3 Virtual Kubernetes Community Days"
-    date = "12 de Dicimebre de 2023"
+    date = "December 12, 2023"
     description = "Forma parte de la primera comunidad de hispanohablantes de Kubernetes. Descubre un evento de tres días en español lleno de experiencias, empresas emergentes y personas a las que les gusta tanto la tecnología como a ti."
     images = ["/images/featured/kcdspain-featured-02.png"]
     email = " hello@kcdspain.com"
@@ -33,12 +33,12 @@ enableMissingTranslationPlaceholders = true
     footer = "/images/logos/KCD-logo-comp.png"
 
 [menu]
-[[menu.main]]
-    identifier = "schedule"
-    name = "menu_main_schedule"
-    url = "https://agenda.kcdspain.com/"
-    weight = 200
-    external = true
+# [[menu.main]]
+#     identifier = "schedule"
+#     name = "menu_main_schedule"
+#     url = "https://agenda.kcdspain.com/"
+#     weight = 200
+#     external = true
 # [[menu.main]]
 #     identifier = "cfp"
 #     name = "CFP"
