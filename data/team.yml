@@ -1,6 +1,6 @@
 - title: Antonio Berben
   company: Solo.io
-  subtitle:
+  subtitle: Field Engineer
   type: event_coordination
   key: antonio_berben
   socials:
@@ -9,7 +9,7 @@
 
 - title: Antonio Berben
   company: Solo.io
-  subtitle:
+  subtitle: Field Engineer
   type: marketing
   key: antonio_berben
   socials:
@@ -44,8 +44,8 @@
       name: Github
 
 - title: Imma Valls
-  company:
-  subtitle: Community Advocate
+  company: Grafana Labs
+  subtitle: Developer Advocate
   type: event_coordination
   key: imma_valls
   socials:
@@ -53,8 +53,8 @@
       name: Github
 
 - title: Imma Valls
-  company:
-  subtitle:
+  company: Grafana Labs
+  subtitle: Developer Advocate
   type: marketing
   key: imma_valls
   socials:
@@ -63,7 +63,7 @@
 
 - title: Jona Apelbaum
   company: Solo.io
-  subtitle:
+  subtitle: Field Engineer
   type:
   key: jona_apelbaum
   socials:
@@ -71,8 +71,8 @@
       name: Github
 
 - title: Jorge Turrado Ferrero
-  company: SCRM
-  subtitle: SRE
+  company: SCRM Lidl International Hub
+  subtitle: Staff SRE
   type: content
   key: jorge_turrado_ferrero
   socials:
@@ -87,7 +87,7 @@
 
 - title: Mario Vázquez
   company: Red Hat
-  subtitle: Solutions Engineer
+  subtitle: Principal Software Engineer
   type: content
   key: mario_vazquez
   socials:
@@ -112,7 +112,7 @@
 - title: Rael Garcia Arnés
   company: Red Hat
   type: event_coordination
-  subtitle: Senior Software Engineer
+  subtitle: Principal Software Engineer
   key: rael_garcia_arnes
   socials:
     - link: https://twitter.com/raelga
@@ -126,7 +126,7 @@
 
 - title: Rael Garcia Arnés
   company: Red Hat
-  subtitle: Senior Software Engineer
+  subtitle: Principal Software Engineer
   type: marketing
   key: rael_garcia_arnes
   socials:
