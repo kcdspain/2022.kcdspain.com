@@ -1,5 +1,77 @@
+- title: Antonio Berben
+  company: Solo.io
+  subtitle:
+  type: event_coordination
+  key: antonio_berben
+  socials:
+    - link: https://github.com/antonioberben
+      name: Github
+
+- title: Antonio Berben
+  company: Solo.io
+  subtitle:
+  type: marketing
+  key: antonio_berben
+  socials:
+    - link: https://github.com/antonioberben
+      name: Github
+
+- title: Carlos Vicent Domenéch
+  company:
+  subtitle:
+  type: marketing
+  key: carlos_vicent_domenech
+  socials:
+    - link: https://github.com/carvido1
+      name: Github
+
+- title: Carlos Vicent Domenéch
+  company:
+  subtitle:
+  type: multimedia
+  key: carlos_vicent_domenech
+  socials:
+    - link: https://github.com/carvido1
+      name: Github
+
+- title: Diego Cristóbal
+  company:
+  subtitle:
+  type: content
+  key: diego_cristobal
+  socials:
+    - link:
+      name: Github
+
+- title: Imma Valls
+  company:
+  subtitle: Community Advocate
+  type: event_coordination
+  key: imma_valls
+  socials:
+    - link: https://github.com/immavalls
+      name: Github
+
+- title: Imma Valls
+  company:
+  subtitle:
+  type: marketing
+  key: imma_valls
+  socials:
+    - link: https://github.com/immavalls
+      name: Github
+
+- title: Jona Apelbaum
+  company: Solo.io
+  subtitle:
+  type:
+  key: jona_apelbaum
+  socials:
+    - link: https://github.com/
+      name: Github
+
 - title: Jorge Turrado Ferrero
-  company: 
+  company: SCRM
   subtitle: SRE
   type: content
   key: jorge_turrado_ferrero
@@ -28,6 +100,15 @@
     - link: https://community.cncf.io/u/m6gx6s/
       name: CNCF
 
+- title: Paco Bernabe
+  company:
+  subtitle:
+  type: content
+  key: paco_bernabe
+  socials:
+    - link: https://github.com/Paken
+      name: Github
+
 - title: Rael Garcia Arnés
   company: Red Hat
   type: event_coordination
@@ -43,10 +124,40 @@
     - link: https://community.cncf.io/u/m5mhc6/
       name: CNCF
 
-- title: Vicente J. Jiménez Miras
-  company: Sysdig
+- title: Rael Garcia Arnés
+  company: Red Hat
+  subtitle: Senior Software Engineer
   type: marketing
-  subtitle: Security Content Enginer
+  key: rael_garcia_arnes
+  socials:
+    - link: https://twitter.com/raelga
+      name: Twitter
+    - link: https://www.linkedin.com/in/rael/
+      name: LinkedIn
+    - link: https://github.com/raelga
+      name: Github
+    - link: https://community.cncf.io/u/m5mhc6/
+      name: CNCF
+
+- title: Vicente J. Jiménez Miras
+  company: Freelance
+  subtitle: OSS Advocate / Instructor
+  type: content
+  key: vicente_javier_jimenez_miras
+  socials:
+    - link: https://twitter.com/vjjmiras
+      name: Twitter
+    - link: https://www.linkedin.com/in/vjjmiras/
+      name: LinkedIn
+    - link: https://github.com/vjjmiras
+      name: Github
+    - link: https://community.cncf.io/u/my68j5/
+      name: CNCF
+
+- title: Vicente J. Jiménez Miras
+  company: Freelance
+  subtitle: OSS Advocate / Instructor
+  type: marketing
   key: vicente_javier_jimenez_miras
   socials:
     - link: https://twitter.com/vjjmiras
