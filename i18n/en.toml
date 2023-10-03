@@ -84,19 +84,19 @@ other = "Join KCD Spain. Don’t miss everything that is about to come!"
 other = "Submit a presentation"
 
 [date_of_event]
-other = "November 15-16, 2022"
+other = "December 12th, 2023"
 
 [partners_header]
 other = "Partners"
 
 [event_subtitle]
-other = "#2 Virtual KCD Spain"
+other = "#3 Virtual KCD Spain"
 
 [what_is_kcd]
 other = "**Kubernetes Community Days (KCDs)** are community-organized events that gather adopters and technologists from open source and cloud native communities for education, collaboration, and networking. KCDs are supported by the [Cloud Native Computing Foundation](https://cncf.io/) (CNCF). These fun, locally-defined events help grow and sustain the Kubernetes community."
 
 [cfp_extension]
-other = "CFP deadline extended until September 30, 2022!"
+other = "CFP deadline extended until November 19th, 2023!"
 
 [menu_main_schedule]
 other = "Schedule"

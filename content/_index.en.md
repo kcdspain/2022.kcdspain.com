@@ -18,7 +18,7 @@ menu:
 ## Featured Speakers
 
 {{< button-link label="Submit a presentation"
-                url="https://kcd.smapply.io/prog/kcd_spain_2022_cfp/"
+                url="https://cfp.kcdspain.com"
                 icon="cfp" >}}
 
 {{< button-link label="See all speakers"

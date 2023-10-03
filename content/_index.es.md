@@ -18,7 +18,7 @@ menu:
 ## Featured Speakers
 
 {{< button-link label="Submit a presentation"
-                url="https://kcd.smapply.io/prog/kcd_spain_2022_cfp/"
+                url="https://cfp.kcdspain.com/"
                 icon="cfp" >}}
 
 {{< button-link label="See all speakers"
@@ -31,7 +31,7 @@ menu:
 
 <!-- ... -->
 
-{{< youtube-section link="?list=PL7cPkcGlrwyrSXw9JJTlyVmbEcw5smCmP" title="Watch KCD Spain 2022" class="" >}}
+{{< youtube-section link="?list=PL7cPkcGlrwyrSXw9JJTlyVmbEcw5smCmP" title="Watch KCD Spain 2023" class="" >}}
 
 <!-- ... -->
 
