@@ -49,8 +49,14 @@
   type: event_coordination
   key: imma_valls
   socials:
+    - link: https://twitter.com/eyeveebee
+      name: Twitter
+    - link: https://www.linkedin.com/in/imma-valls/
+      name: LinkedIn
     - link: https://github.com/immavalls
       name: Github
+    - link: https://community.cncf.io/u/mzcbv7/
+      name: CNCF
 
 - title: Imma Valls
   company: Grafana Labs
@@ -58,8 +64,14 @@
   type: marketing
   key: imma_valls
   socials:
+    - link: https://twitter.com/eyeveebee
+      name: Twitter
+    - link: https://www.linkedin.com/in/imma-valls/
+      name: LinkedIn
     - link: https://github.com/immavalls
       name: Github
+    - link: https://community.cncf.io/u/mzcbv7/
+      name: CNCF
 
 - title: Jona Apelbaum
   company: Solo.io
