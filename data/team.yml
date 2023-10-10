@@ -34,14 +34,20 @@
     - link: https://github.com/carvido1
       name: Github
 
-- title: Diego Cristóbal
-  company:
-  subtitle:
+- title: Diego Cristóbal Herreros
+  company: VMware
+  subtitle: Automation Engineer
   type: content
-  key: diego_cristobal
+  key: diego_cristobal_herreros
   socials:
-    - link:
+    - link: https://twitter.com/diegoyfuera
+      name: Twitter
+    - link: https://www.linkedin.com/in/diego-cristobal-herreros-60886a80/
+      name: LinkedIn
+    - link: https://github.com/dcristobalhMad
       name: Github
+    - link: https://community.cncf.io/u/mz78vm/
+      name: CNCF
 
 - title: Imma Valls
   company: Grafana Labs
