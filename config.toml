@@ -18,7 +18,7 @@ enableMissingTranslationPlaceholders = true
     email = " hello@kcdspain.com"
     keywords = "event, kcd, spain, kubernetes, google, cloud"
     copyright = "Organized with ❤️  by KCD Spain."
-    cfpUrl = "https://cfp.kcdspain.com"
+    cfpUrl = "https://go.kcdspain.com/cfp"
     joinURL = "https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2023/"
     appleTouchIcon = "/apple-icon.png"
     favicon32 = "/favicon-32x32.png"
@@ -39,12 +39,12 @@ enableMissingTranslationPlaceholders = true
 #     url = "https://agenda.kcdspain.com/"
 #     weight = 200
 #     external = true
-# [[menu.main]]
-#     identifier = "cfp"
-#     name = "CFP"
-#     url = "https://cfp.kcdspain.com"
-#     weight = 190
-#     external = true
+[[menu.main]]
+    identifier = "cfp"
+    name = "CFP"
+    url = "https://go.kcdspain.com/cfp"
+    weight = 190
+    external = true
 
 [languages]
 [languages.en]

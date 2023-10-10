@@ -10,7 +10,7 @@ menu:
 
 <!-- ... -->
 
-{{% jumbo img="/images/backgrounds/back-geo.png" imgLabel="KCDSpain" submitCFP="no" joinEvent="no" %}}
+{{% jumbo img="/images/backgrounds/back-geo.png" imgLabel="KCDSpain" submitCFP="yes" joinEvent="no" %}}
 
 <!--
 
@@ -18,7 +18,7 @@ menu:
 ## Featured Speakers
 
 {{< button-link label="Submit a presentation"
-                url="https://cfp.kcdspain.com"
+                url="https://go.kcdspain.com/cfp"
                 icon="cfp" >}}
 
 {{< button-link label="See all speakers"

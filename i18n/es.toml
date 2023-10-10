@@ -100,3 +100,6 @@ other = "Extendido el plazo del CFP hasta el 19 de Noviembre, 2023!"
 
 [menu_main_schedule]
 other = "Agenda"
+
+[CFP]
+other = "CFP"
