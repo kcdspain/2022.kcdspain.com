@@ -17,7 +17,9 @@
 		{{ end }}
 		<div class="inner">
 			<h2 id="date_of_event">{{ i18n "date_of_event" }}</h2>
+			<!-- Remove event_subtitle in favor of a better layout on the home page
 			<h3 id="event_subtitle">{{ i18n "event_subtitle" }}</h3>
+                        -->
 			{{ if eq $submitCFP "yes" }}
 			<a class="btn btn-xlg tertiary" href="{{ $cfpUrl }}">
 			    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>{{ i18n "submit_presentation" }}
