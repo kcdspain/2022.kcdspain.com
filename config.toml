@@ -30,7 +30,7 @@ enableMissingTranslationPlaceholders = true
 [params.logos]
     jumbo = "/images/logos/KCD-logo-white.png"
     header = "/images/logos/KCD-logo-comp.png"
-    footer = "/images/logos/KCD-logo-comp.png"
+    footer = "/images/logos/KCD-logo-white.png"
 
 [menu]
 # [[menu.main]]
