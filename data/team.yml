@@ -17,22 +17,30 @@
       name: Github
 
 - title: Carlos Vicent Domenéch
-  company:
-  subtitle:
+  company: Container Solutions
+  subtitle: Cloud Native Engineer
   type: marketing
   key: carlos_vicent_domenech
   socials:
+    - link: https://www.linkedin.com/in/carvido1/
+      name: LinkedIn
     - link: https://github.com/carvido1
       name: Github
+    - link: https://community.cncf.io/u/mguhjf/
+      name: CNCF
 
 - title: Carlos Vicent Domenéch
-  company:
-  subtitle:
+  company: Container Solutions
+  subtitle: Cloud Native Engineer
   type: multimedia
   key: carlos_vicent_domenech
   socials:
+    - link: https://www.linkedin.com/in/carvido1/
+      name: LinkedIn
     - link: https://github.com/carvido1
       name: Github
+    - link: https://community.cncf.io/u/mguhjf/
+      name: CNCF
 
 - title: Diego Cristóbal Herreros
   company: VMware
