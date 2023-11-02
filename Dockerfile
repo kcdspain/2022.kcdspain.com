@@ -1,5 +1,5 @@
 FROM node:18.9-alpine3.15
-ARG WORKDIR=/root/kdc
+ARG WORKDIR=/root/kcd
 
 COPY ./archetypes ${WORKDIR}/archetypes
 COPY ./content ${WORKDIR}/content
