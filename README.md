@@ -8,7 +8,7 @@ To develop, just run this command and open your browser at http://localhost:1313
 docker run -it --rm --name kcd2023 \
   -v $(pwd)/:/root/kcd/ \
   -p 1313:1313 \
-  kcd:2023 server --bind "0.0.0.0"
+  kcd:2023
 ```
 
 ## Build
