@@ -1,20 +1,32 @@
 - title: Antonio Berben
   company: Solo.io
-  subtitle: Field Engineer
+  subtitle: Principal Solutions Engineer
   type: event_coordination
   key: antonio_berben
   socials:
     - link: https://github.com/antonioberben
       name: Github
+    - link: https://twitter.com/antonio_berben
+      name: Twitter
+    - link: https://www.linkedin.com/in/antonio-berben/
+      name: LinkedIn
+    - link: https://community.cncf.io/u/mjvvy8/
+      name: CNCF
 
 - title: Antonio Berben
   company: Solo.io
-  subtitle: Field Engineer
+  subtitle: Principal Solutions Engineer
   type: marketing
   key: antonio_berben
   socials:
     - link: https://github.com/antonioberben
       name: Github
+    - link: https://twitter.com/antonio_berben
+      name: Twitter
+    - link: https://www.linkedin.com/in/antonio-berben/
+      name: LinkedIn
+    - link: https://community.cncf.io/u/mjvvy8/
+      name: CNCF
 
 - title: Carlos Vicent Domenéch
   company: Container Solutions
@@ -89,8 +101,17 @@
 
 - title: Jona Apelbaum
   company: Solo.io
-  subtitle: Field Engineer
-  type:
+  subtitle: Principal Solutions Engineer
+  type: content
+  key: jona_apelbaum
+  socials:
+    - link: https://github.com/
+      name: Github
+
+- title: Jona Apelbaum
+  company: Solo.io
+  subtitle: Principal Solutions Engineer
+  type: event_coordination
   key: jona_apelbaum
   socials:
     - link: https://github.com/
