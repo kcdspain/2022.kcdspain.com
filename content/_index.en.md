@@ -10,7 +10,7 @@ menu:
 
 <!-- ... -->
 
-{{% jumbo img="/images/backgrounds/back-geo.png" imgLabel="KCDSpain" submitCFP="yes" joinEvent="no" %}}
+{{% jumbo img="/images/backgrounds/back-geo.png" imgLabel="KCDSpain" joinEvent="no" %}}
 
 <!--
 
